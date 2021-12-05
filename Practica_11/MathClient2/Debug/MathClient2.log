@@ -1,0 +1,15 @@
+﻿  MathClient2.cpp
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(42,16): error C2082: nueva definición del parámetro formal 'r'
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(43,13): error C2082: nueva definición del parámetro formal 'j'
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(49,38): error C2065: 'y': identificador no declarado
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(49,41): error C2065: 'c': identificador no declarado
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(51,43): error C2065: 'y': identificador no declarado
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(51,46): error C2065: 'c': identificador no declarado
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(53,43): error C2065: 'y': identificador no declarado
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(53,46): error C2065: 'c': identificador no declarado
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(55,41): error C2065: 'y': identificador no declarado
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(55,44): error C2065: 'c': identificador no declarado
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(57,13): error C2082: nueva definición del parámetro formal 'u'
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(57,13): error C2065: 'y': identificador no declarado
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(58,13): error C2082: nueva definición del parámetro formal 'w'
+C:\Users\angel\source\repos\StaticMath2\MathClient2\MathClient2.cpp(58,13): error C2065: 'c': identificador no declarado

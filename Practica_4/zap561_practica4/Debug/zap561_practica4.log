@@ -1,0 +1,29 @@
+﻿  zap561_practica4.cpp
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(30,12): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'bool *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(36,12): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'int *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(42,12): warning C4477: 'printf' : la cadena de formato '%f' requiere un argumento de tipo 'double', pero el argumento variádico 1 tiene el tipo 'float *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(46,13): warning C4477: 'scanf_s' : la cadena de formato '%f' requiere un argumento de tipo 'float *', pero el argumento variádico 1 tiene el tipo 'double *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(46,13): message : considere el uso de ' %lf' en la cadena de formato
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(48,12): warning C4477: 'printf' : la cadena de formato '%f' requiere un argumento de tipo 'double', pero el argumento variádico 1 tiene el tipo 'double *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(52,13): warning C4477: 'scanf_s' : la cadena de formato '%f' requiere un argumento de tipo 'float *', pero el argumento variádico 1 tiene el tipo 'long double *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(52,13): message : considere el uso de ' %Lf' en la cadena de formato
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(54,12): warning C4477: 'printf' : la cadena de formato '%f' requiere un argumento de tipo 'double', pero el argumento variádico 1 tiene el tipo 'long double *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(58,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(58,13): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(58,13): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(58,13): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(60,12): warning C4477: 'printf' : la cadena de formato '%c' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'char (*)[40]'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(64,13): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo '__int64 *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(64,13): message : considere el uso de ' %lld' en la cadena de formato
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(64,13): message : considere el uso de ' %I64d' en la cadena de formato
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(66,11): warning C4477: 'scanf' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo '__int64 *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(66,11): message : considere el uso de ' %lld' en la cadena de formato
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(66,11): message : considere el uso de ' %I64d' en la cadena de formato
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(69,13): warning C4477: 'scanf_s' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string *'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(69,13): message : este argumento se utiliza por un especificador de conversión
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(69,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(69,13): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(69,13): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%s'
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(69,13): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\angel\source\repos\zap561_practica4\zap561_practica4\zap561_practica4.cpp(71,12): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string *'
+  zap561_practica4.vcxproj -> C:\Users\angel\source\repos\zap561_practica4\Debug\zap561_practica4.exe
